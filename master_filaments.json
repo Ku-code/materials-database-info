@@ -28,6 +28,50 @@
         "Functional Parts",
         "Mechanical Parts",
         "Structural Parts"
+      ],
+      "AvailableColors": [
+        {
+          "ColorName": "Orange (41300)",
+          "HexCode": "#F48438",
+          "Price": 31.99,
+          "Currency": "EUR",
+          "InStock": true
+        },
+        {
+          "ColorName": "Red (41200)",
+          "HexCode": "#E83100",
+          "Price": 31.99,
+          "Currency": "EUR",
+          "InStock": true
+        },
+        {
+          "ColorName": "Blue (41600)",
+          "HexCode": "#0C3B95",
+          "Price": 31.99,
+          "Currency": "EUR",
+          "InStock": true
+        }
+        {
+          "ColorName": "White (41100)",
+          "HexCode": "#FFFFFF",
+          "Price": 31.99,
+          "Currency": "EUR",
+          "InStock": false
+        },
+        {
+          "ColorName": "Gray (41102)",
+          "HexCode": "#C6C6C6",
+          "Price": 31.99,
+          "Currency": "EUR",
+          "InStock": false
+        },
+        {
+          "ColorName": "Black (41101)",
+          "HexCode": "#000000",
+          "Price": 31.99,
+          "Currency": "EUR",
+          "InStock": false
+        }
       ]
     },
     {
