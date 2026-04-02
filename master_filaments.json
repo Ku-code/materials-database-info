@@ -28,8 +28,7 @@
       "Functional Parts",
       "Mechanical Parts",
       "Structural Parts"
-    ],
-    "SourceFile": "Bambu_ABS-GF_Technical_Data_Sheet.pdf"
+    ]
   },
   {
     "Name_Short": "PA6-GF",
@@ -60,8 +59,7 @@
       "Mechanical Parts",
       "Outdoor Parts",
       "Structural Parts"
-    ],
-    "SourceFile": "Bambu_PA6-GF_Technical_Data_Sheet.pdf"
+    ]
   },
   {
     "Name_Short": "PETG-HF",
@@ -89,8 +87,7 @@
       "Decorative Parts, Toys, Random Parts",
       "Functional Parts",
       "Outdoor Parts"
-    ],
-    "SourceFile": "Bambu_PETG_HF_Technical_Data_Sheet.pdf"
+    ]
   },
   {
     "Name_Short": "PLA-BASIC",
@@ -116,8 +113,7 @@
     "TypeOfUse": [
       "Architecture Models",
       "Decorative Parts, Toys, Random Parts"
-    ],
-    "SourceFile": "Bambu_PLA_Basic_Technical_Data_Sheet_bf3411ce-be39-4db7-9669-1b4671d2196b.pdf"
+    ]
   },
   {
     "Name_Short": "PLA-CF",
@@ -143,8 +139,7 @@
     "TypeOfUse": [
       "Architecture Models",
       "Decorative Parts, Toys, Random Parts"
-    ],
-    "SourceFile": "Bambu_PLA-CF_Technical_Data_Sheet_V3.pdf"
+    ]
   },
   {
     "Name_Short": "ABS",
@@ -172,8 +167,7 @@
       "Decorative Parts, Toys, Random Parts",
       "Functional Parts",
       "Structural Parts"
-    ],
-    "SourceFile": "Bambu_ABS_Technical_Data_Sheet_V3.pdf"
+    ]
   },
   {
     "Name_Short": "ASA",
@@ -201,8 +195,7 @@
       "Decorative Parts, Toys, Random Parts",
       "Outdoor Parts",
       "Structural Parts"
-    ],
-    "SourceFile": "Bambu_ASA_Technical_Data_Sheet.pdf"
+    ]
   },
   {
     "Name_Short": "ASA-CF",
@@ -229,8 +222,7 @@
       "Automotive Parts",
       "Outdoor Parts",
       "Structural Parts"
-    ],
-    "SourceFile": "Bambus_ASA-CF_Technical_Data_Sheet.pdf"
+    ]
   },
   {
     "Name_Short": "PA6-CF",
@@ -259,8 +251,7 @@
       "Mechanical Parts",
       "Outdoor Parts",
       "Structural Parts"
-    ],
-    "SourceFile": "Bambu_PA6-CF_Technical_Data_Sheet-v2.pdf"
+    ]
   },
   {
     "Name_Short": "PAHT-CF",
@@ -289,8 +280,7 @@
       "Mechanical Parts",
       "Outdoor Parts",
       "Structural Parts"
-    ],
-    "SourceFile": "Bambu_PAHT-CF_Technical_Data_Sheet_V2.pdf"
+    ]
   },
   {
     "Name_Short": "PC",
@@ -318,8 +308,7 @@
       "Functional Parts",
       "Outdoor Parts",
       "Structural Parts"
-    ],
-    "SourceFile": "Bambu_PC_Technical_Data_Sheet.pdf"
+    ]
   },
   {
     "Name_Short": "PC-FR",
@@ -347,8 +336,7 @@
       "Functional Parts",
       "Outdoor Parts",
       "Structural Parts"
-    ],
-    "SourceFile": "Bambu_PC_FR_Technical_Data_Sheet.pdf"
+    ]
   },
   {
     "Name_Short": "PET-CF",
@@ -377,8 +365,7 @@
       "Mechanical Parts",
       "Outdoor Parts",
       "Structural Parts"
-    ],
-    "SourceFile": "Bambu_PET-CF_Technical_Data_Sheet_V2.pdf"
+    ]
   },
   {
     "Name_Short": "PPA-CF",
@@ -406,8 +393,7 @@
       "Functional Parts",
       "Mechanical Parts",
       "Structural Parts"
-    ],
-    "SourceFile": "Bambus_PPA-CF_Technical_Data_Sheet_2ab26420-79f5-4692-888e-090006814050.pdf"
+    ]
   },
   {
     "Name_Short": "PPS-CF",
@@ -435,8 +421,7 @@
       "Functional Parts",
       "Mechanical Parts",
       "Structural Parts"
-    ],
-    "SourceFile": "Bambu_PPS-CF_Technical_Data_Sheet.pdf"
+    ]
   },
   {
     "Name_Short": "PETG-CF",
@@ -462,8 +447,7 @@
     "TypeOfUse": [
       "Decorative Parts, Toys, Random Parts",
       "Functional Parts"
-    ],
-    "SourceFile": "Bambu_PETG-CF_Technical_Data_Sheet_V2.pdf"
+    ]
   },
   {
     "Name_Short": "TPU-85A",
@@ -488,8 +472,7 @@
     "ImageUrl": "TPU-85A.jpg",
     "TypeOfUse": [
       "Decorative Parts, Toys, Random Parts"
-    ],
-    "SourceFile": "Bambu_TPU_85A_Technical_Data_Sheet_a7233668-497b-487f-af8a-3adb49fafaa1.pdf"
+    ]
   },
   {
     "Name_Short": "TPU-90A",
@@ -514,8 +497,7 @@
     "ImageUrl": "TPU-90A.jpg",
     "TypeOfUse": [
       "Decorative Parts, Toys, Random Parts"
-    ],
-    "SourceFile": "Bambu_TPU_90A_Technical_Data_Sheet_582bf8f6-1f0a-474c-aeda-9e72af3689dc.pdf"
+    ]
   },
   {
     "Name_Short": "TPU-95A-HF",
@@ -540,8 +522,7 @@
     "ImageUrl": "TPU-95A-HF.jpg",
     "TypeOfUse": [
       "Decorative Parts, Toys, Random Parts"
-    ],
-    "SourceFile": "Bambu_TPU_95A_HF_Technical_Data_Sheet.pdf"
+    ]
   },
   {
     "Name_Short": "TPU-FOR-AMS",
@@ -566,8 +547,7 @@
     "ImageUrl": "TPU-for-AMS.jpg",
     "TypeOfUse": [
       "Decorative Parts, Toys, Random Parts"
-    ],
-    "SourceFile": "Bambu_TPU_for_AMS_Technical_Data_Sheet.pdf"
+    ]
   }
 ]
 }
